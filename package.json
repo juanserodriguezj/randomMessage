@@ -14,7 +14,15 @@
   "author": "Sebastian Rodriguez <juanserodriguezj@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanserodriguezj/randomMessage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanserodriguezj/randomMessage/issues"
+  },
+  "homepage": "https://github.com/juanserodriguezj/randomMessage#readme"
 }
